@@ -28,4 +28,5 @@ _True passion for exclusive and well made beer._
 ## UX (User Experience) ##  
   
 ### Project Goals ###  
+This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for homebrew.  
 
