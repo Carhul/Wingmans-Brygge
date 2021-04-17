@@ -5,7 +5,7 @@ _True passion for exclusive and well made beer._
 
 
 ## Contents ##  
----
+
 * UX    
     * Project goals  
     * User goals  
@@ -26,6 +26,6 @@ _True passion for exclusive and well made beer._
 * Credit  
 ---
 ## UX (User Experience) ##  
----  
+  
 ### Project Goals ###  
 
