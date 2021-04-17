@@ -36,3 +36,10 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * Links to other social media for further inspiration  
 * Ability to contact Wingmans directly by phone or email  
 * Ability to get the **steps for success** directly from Wingmans by entering an e-mail address in the contact page and push _Start brewing with Wingman`s!_  
+
+### User Stories ###  
+* As a user I want to see a nice and inspiring website who makes me want to learn more about home brew  
+* As a user I want to know the founders vision  
+* As a user I want to see pictures of the founders and the home brew in action  
+* As a user I want to read reviews from others who have had contact with the founders  
+* As a user I want the ability to contact the founders for questions and guidance, and I also want the ability to let them contact me by leaving my e-mail address
