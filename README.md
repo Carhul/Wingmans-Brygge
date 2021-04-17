@@ -42,4 +42,9 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * As a user I want to know the founders vision  
 * As a user I want to see pictures of the founders and the home brew in action  
 * As a user I want to read reviews from others who have had contact with the founders  
-* As a user I want the ability to contact the founders for questions and guidance, and I also want the ability to let them contact me by leaving my e-mail address
+* As a user I want the ability to contact the founders for questions and guidance, and I also want the ability to let them contact me by leaving my e-mail address  
+
+### Site Owner Goals ###  
+* Inspire others with their work and passion for home brew  
+* Help others get started with home brew
+* Establish contact with others who share their passion  
