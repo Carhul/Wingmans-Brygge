@@ -69,7 +69,7 @@ Index page - contains only the navbar and footer who is the same at all pages, i
     
 Gallery page - representative images of Wingman's in action, process and equipment.  
   
-  Contact page - contains a contact form with with an exclusive wallpaper to break a little from the other pages and to create an evocative user.
+  Contact page - contains a contact form with an exclusive wallpaper to break a little from the other pages and to create an evocative user.
 * Fonts  
 
 * Icons  
