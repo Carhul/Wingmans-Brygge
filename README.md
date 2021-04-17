@@ -48,3 +48,12 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * Inspire others with their work and passion for home brew  
 * Help others get started with home brew
 * Establish contact with others who share their passion  
+
+### User Requirements And Expectations ###  
+
+Requirements  
+
+* Content that is visually appealing and well structured
+* Easily to navigate the website using the navbar  
+* Operational links to other pages that open in a new tab  
+* Operational contact form for e-mail address input  
