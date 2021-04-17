@@ -58,8 +58,26 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * Operational contact form for e-mail address input  
 * The website is quick to load  
 
+### Design choices ### 
+The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
+  
+  As the site is ment to be an inspiration-page, but not with to much content as the founders also want to establish contact with others who may have, or in the future might get, the same passion; it was importent to keep the site simple and clean.  
+
+Index page - contains only the navbar and footer who is the same at all pages, in addition to the logo. Both the calm cream background and the color of the navigation / footer were taken from the logo
+* Fonts  
+
+* Icons  
+
+* Colours  
+Both the calm cream background and the color of the navigation/footer were taken from the logo to ensure a harmonious expression.  
+  
+  * Navigation/footer: #C7782B  
+  * Background: #FFEBB9  
+  * Contact background: #000000
+  * Contact form: #FFF6DF
+  * Text: #000000
 ### Credit ###  
-Text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
+Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
 * [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/README.md) and [Miranda](https://github.com/mkthewlis/Milestone-Project-1) for clear, neat and inspiring readme files
 * [Pumpkin](https://www.pumpkinwebdesign.com/web-design-manchester/top-user-expectations-for-web-design-in-2021/) for inspiration on _user requirements and expectations_ section  
