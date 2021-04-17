@@ -58,7 +58,7 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * Operational contact form for e-mail address input  
 * The website is quick to load  
 
-### Credits ###  
+### Credit ###  
 Text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
 * [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/README.md) and [Miranda](https://github.com/mkthewlis/Milestone-Project-1) for clear, neat and inspiring readme files
