@@ -63,7 +63,13 @@ The design of this website has been created based on the logo of Wingmans and th
   
   As the site is ment to be an inspiration-page, but not with to much content as the founders also want to establish contact with others who may have, or in the future might get, the same passion; it was importent to keep the site simple and clean.  
 
-Index page - contains only the navbar and footer who is the same at all pages, in addition to the logo. Both the calm cream background and the color of the navigation / footer were taken from the logo
+Index page - contains only the navbar and footer who is the same at all pages, in addition to the logo.  
+  
+  About page - an evocative image at the top with a following introduction to the founders vision and picture. Then a smal review section at the end.  
+    
+Gallery page - representative images of Wingman's in action, process and equipment.  
+  
+  Contact page - contains a contact form with with an exclusive wallpaper to break a little from the other pages and to create an evocative user.
 * Fonts  
 
 * Icons  
