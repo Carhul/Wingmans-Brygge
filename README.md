@@ -75,14 +75,14 @@ Gallery page - representative images of Wingman's in action, process and equipme
 * Icons  
 
 * Colours  
-Both the calm cream background and the color of the navigation/footer were taken from the logo to ensure a harmonious expression.  
+All the colours were taken from the logo to ensure a harmonious expression.  
   
   * Navigation/footer: #C7782B  
   * Background: #FFEBB9  
   * Contact background: #000000
   * Contact form: #FFF6DF
   * Text: #000000  
-  
+
   ![image](wireframes/desktop/colorpallet.png)
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
