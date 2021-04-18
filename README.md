@@ -85,7 +85,7 @@ All the colours were taken from the logo to ensure a harmonious expression.
       
         
   Background colour on contact form was initially intended to be identical to the bg colour on the other pages, but became too yellow and needed to be adjusted to a lighter tone.  
-  
+
   Color Scheme from [Coolors](https://coolors.co/)  
 
   ![image](wireframes/desktop/colorpallet.png)
@@ -94,3 +94,8 @@ Content and text used in this website is written by me in collaboration with the
 #### Setup and text in README.md ####  
 * [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/README.md) and [Miranda](https://github.com/mkthewlis/Milestone-Project-1) for clear, neat and inspiring readme files
 * [Pumpkin](https://www.pumpkinwebdesign.com/web-design-manchester/top-user-expectations-for-web-design-in-2021/) for inspiration on _user requirements and expectations_ section  
+  
+#### Images ####  
+About page - images is provided by [Unsplash](https://unsplash.com/). At the top from [Fred](https://unsplash.com/photos/0yqa0rMCsYk), and reviews from [Ivana](https://unsplash.com/photos/_7LbC5J-jw4), [Toa](https://unsplash.com/photos/O3ymvT7Wf9U) and [Ian](https://unsplash.com/photos/d1UPkiFd04A).  
+  
+  Contact page - background image by [Pradnyal](https://unsplash.com/photos/1MqDCpA-2hU).
