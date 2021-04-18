@@ -31,10 +31,8 @@ _True passion for exclusive and well made beer._
 This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew.  
   
     
-    Note; the review section is fictional,  
-    as this is a new approach for Wingmans.  
-    It needed to be included as part of  
-    the assessment criteria.
+    Note; the review section is fictional as this is a new approach for The Wingmans.  
+    It needed to be included as part of the assessment criteria.
 
 ### User Goals ###  
 * Find inspiration for home brew  
