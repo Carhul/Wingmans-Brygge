@@ -81,7 +81,9 @@ Both the calm cream background and the color of the navigation/footer were taken
   * Background: #FFEBB9  
   * Contact background: #000000
   * Contact form: #FFF6DF
-  * Text: #000000
+  * Text: #000000  
+  
+  ![image](wireframes/desktop/colorpallet.png)
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
