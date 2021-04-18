@@ -73,6 +73,7 @@ Gallery page - representative images of Wingman's in action, process and equipme
 * Fonts  
 
 * Icons  
+[Fontawsome](https://fontawesome.com/icons?d=gallery&p=2) provided the icons for [Facebook](https://fontawesome.com/icons/facebook-square?style=brands), [Instagram](https://fontawesome.com/icons/instagram-square?style=brands) and [Snapchat](https://fontawesome.com/icons/snapchat-square?style=brands).
 
 * Colours  
 All the colours were taken from the logo to ensure a harmonious expression.  
