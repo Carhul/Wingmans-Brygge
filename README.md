@@ -1,7 +1,7 @@
 # Wingmans Brygge #
 _True passion for exclusive and well made beer._
 
-![Wingmans](wireframes/desktop/wingmans-home.jpg)  
+![Wingmans](wireframes/desktop/home_desktop.jpg)  
 
 
 ## Contents ##  
@@ -92,7 +92,7 @@ All the colours were taken from the logo to ensure a harmonious expression.
 
   Color Scheme from [Coolors](https://coolors.co/)  
 
-  ![image](wireframes/desktop/colorpallet.png)
+  ![image](wireframes/colorpallet.png)
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
