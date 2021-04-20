@@ -108,14 +108,7 @@ Wireframes are made in [Figma](https://www.figma.com/). This was a really nice p
 
 ![contact](wireframes/desktop/contact_desktop.jpg)  
 
-#### Design for tablet devices: ####  
-![index](wireframes/tablet/gallery_tablet.jpg)  
-
-![about](wireframes/tablet/about_tablet.jpg)  
-
-![gallery](wireframes/tablet/gallery_tablet.jpg)  
-
-![contact](wireframes/tablet/contact_tablet.jpg)  
+All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2).
 
 
 ### Credit ###  
