@@ -92,7 +92,22 @@ All the colours were taken from the logo to ensure a harmonious expression.
 
   Color Scheme from [Coolors](https://coolors.co/)  
 
-  ![image](wireframes/colorpallet.png)
+  ![image](wireframes/colorpallet.png)  
+
+    
+## Wireframes ##  
+Wireframes are made in [Figma](https://www.figma.com/). This was a really nice program to check out different styles and how the final result would look like on different screensizes.  
+
+Design for desktop devices:  
+![index](wireframes/desktop/index_desktop.jpg)  
+  
+![about](wireframes/desktop/about_desktop.jpg)  
+
+![gallery](wireframes/desktop/gallery_desktop.jpg)  
+
+![contact](wireframes/desktop/contact_desktop.jpg)  
+
+
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
