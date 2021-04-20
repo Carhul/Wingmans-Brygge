@@ -15,7 +15,8 @@ _True passion for exclusive and well made beer._
     * Design choices  
         * Fonts  
         * Icons  
-        * Colours
+        * Colours  
+        * Wireframes
 * Technologies  
 * Features  
     * Features that have been developed  
