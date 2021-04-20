@@ -96,7 +96,7 @@ All the colours were taken from the logo to ensure a harmonious expression.
   ![image](wireframes/colorpallet.png)  
 
     
-## Wireframes ##  
+### Wireframes ###  
 Wireframes are made in [Figma](https://www.figma.com/). This was a really nice program to check out different styles and how the final result would look like on different screensizes.  
 
 #### Design for desktop devices: ####  
@@ -108,8 +108,21 @@ Wireframes are made in [Figma](https://www.figma.com/). This was a really nice p
 
 ![contact](wireframes/desktop/contact_desktop.jpg)  
 
-All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2).
+All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2).  
 
+### Technologies ###  
+Languages  
+* [HTML](https://no.wikipedia.org/wiki/HTML)  
+* [CSS](https://en.wikipedia.org/wiki/CSS)  
+* 
+
+Tools / Libraries  
+* [Git](https://git-scm.com/)  
+* [Bootstrap](https://getbootstrap.com/)  
+* [Fontawsome](https://fontawesome.com/)  
+* [Google Fonts](https://fonts.google.com/)  
+* [Unsplash](https://unsplash.com/)  
+* [Coolors](https://coolors.co/)
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
