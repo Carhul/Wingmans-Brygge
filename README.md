@@ -135,7 +135,13 @@ Features that have been implemented:
 Features that will be implemented in the future:  
 * Video blog / link to youtube  
 * Logbook  
-* Forum
+* Forum  
+
+### Testing ###  
+
+### Bugs ###  
+
+### Deployment ###  
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
