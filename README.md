@@ -1,7 +1,7 @@
 # Wingmans Brygge #
 _True passion for exclusive and well made beer._
 
-![Wingmans](wireframes/desktop/home_desktop.jpg)  
+![Wingmans](wireframes/desktop/index_desktop.jpg)  
 
 
 ## Contents ##  
