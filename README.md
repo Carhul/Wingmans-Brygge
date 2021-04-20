@@ -122,7 +122,20 @@ Tools / Libraries
 * [Fontawsome](https://fontawesome.com/)  
 * [Google Fonts](https://fonts.google.com/)  
 * [Unsplash](https://unsplash.com/)  
-* [Coolors](https://coolors.co/)
+* [Coolors](https://coolors.co/)  
+
+### Features ###  
+
+Features that have been implemented:  
+* Easy to navigate on all screensizes  
+* Social media links  
+* Link to [Taplist](https://taplist.io/)  
+* Contact form with submit button  
+
+Features that will be implemented in the future:  
+* Video blog / link to youtube  
+* Logbook  
+* Forum
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
