@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
 /*------------------Colours and fonts
 
 /*------------------Background colours
+
 .navbar {
     background-color: #C7782B;
 }
@@ -14,3 +17,9 @@
 }
 
 /*------------------Text colours
+
+/*------------------Social links
+
+.social-links {
+    color: #black;
+}
