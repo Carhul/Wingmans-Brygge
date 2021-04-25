@@ -1,25 +1,37 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-/*------------------Colours and fonts
+/* ----------------------------------------Header */
 
-/*------------------Background colours
-
-.navbar {
+header {
     background-color: #C7782B;
 }
 
-.main {
-    background-color: #FFEBB9;
+.nav-link {
+    color: #302d2d;
+    text-decoration: none;
 }
 
-.bg-footer {
+.nav-link:hover {
+    color: #251e1e;
+}
+
+
+/* ----------------------------------------Main */
+
+main {
+    background-color: #faedce;
+}
+
+/* ----------------------------------------Footer */
+
+.footer-bg {
     background-color: #C7782B;
 }
 
-/*------------------Text colours
+.social-links a {
+    color: #302d2d;
+}
 
-/*------------------Social links
-
-.social-links {
-    color: #black;
+.social-links a:hover {
+    color: #251e1e;
 }
