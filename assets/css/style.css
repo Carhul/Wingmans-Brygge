@@ -6,19 +6,19 @@ header {
     background-color: #C7782B;
 }
 
-.nav-link {
+.nav-color a {
     color: #302d2d;
     text-decoration: none;
 }
 
-.nav-link:hover {
-    color: #251e1e;
+.nav-color a:hover {
+    color: #444444;
 }
 
 
 /* ----------------------------------------Main */
 
-main {
+.main-bg {
     background-color: #faedce;
 }
 
