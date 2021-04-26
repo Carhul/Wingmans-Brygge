@@ -1,18 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 
 /* ----------------------------------------Header */
 
 header {
     background-color: #C7782B;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: #302d2d;
 }
 
 .nav-color a {
     color: #302d2d;
     text-decoration: none;
+    margin-left: 15px;
 }
 
 .nav-color a:hover {
-    color: #444444;
+    color: #faedce;
 }
 
 
@@ -24,14 +30,25 @@ header {
 
 /* ----------------------------------------Footer */
 
+footer {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: #302d2d;
+}
+
 .footer-bg {
     background-color: #C7782B;
 }
 
-.social-links a {
+.social-links li a i {
     color: #302d2d;
+    margin-left: 20px;
+    font-size: 30px;
+    width: 5px;
+    height: 20px;
 }
 
-.social-links a:hover {
-    color: #251e1e;
+.social-links li a i:hover {
+    color: #faedce;
 }
