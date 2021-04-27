@@ -11,11 +11,29 @@ header {
     color: #302d2d;
 }
 
+.navbar-brand {
+    padding-left: 10px;
+}
+
+.nav-item {
+    padding-left: 10px;
+}
+
+.navbar-toggler-icon {
+    border: #302d2d;
+}
+
 /* ----------------------------------------Main */
 
 .main-bg {
     background-color: #faedce;
     max-width: 100%;
+}
+
+img {
+    max-width: 600px;
+    height: auto;
+
 }
 
 /* ----------------------------------------Footer */
@@ -32,13 +50,15 @@ footer {
 }
 
 .social-links li a i {
-    color: #302d2d;
+    color: #383737;
     margin-left: 20px;
     font-size: 30px;
     width: 5px;
     height: 20px;
+    padding-right: 30px;
+    padding-top: 20px;
 }
 
 .social-links li a i:hover {
-    color: #faedce;
+    color: #2c2c2b;
 }
