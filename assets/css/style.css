@@ -11,18 +11,6 @@ header {
     color: #302d2d;
 }
 
-.nav-color a {
-    color: #302d2d;
-    text-decoration: none;
-    margin-left: 15px;
-}
-
-.nav-color a:hover {
-    color: #faedce;
-}
-
-
-
 /* ----------------------------------------Main */
 
 .main-bg {
