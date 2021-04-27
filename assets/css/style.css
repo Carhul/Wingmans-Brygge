@@ -13,6 +13,7 @@ header {
 
 .navbar-brand {
     padding-left: 10px;
+    font-size: 25px;
 }
 
 .nav-item {
@@ -20,7 +21,7 @@ header {
 }
 
 .fa-beer {
-    color: #2c2c2b;
+    color: #383737;
 }
 
 /* CREDIT - How to remove the blue border around the navbar toggler icon: https: //stackoverflow.com/questions/50668594/remove-border-color-for-navbar-toggler-hamburger-icon-bootstrap-4 */
@@ -48,23 +49,26 @@ img {
 
 footer {
     font-family: "Open Sans", sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 200;
-    color: #302d2d;
+    color: #383737;
 }
 
 .footer-bg {
     background-color: #C7782B;
 }
 
+#name-address,
+#phone-email {
+    text-align: center;
+}
+
 .social-links li a i {
     color: #383737;
-    margin-left: 20px;
-    font-size: 30px;
-    width: 5px;
-    height: 20px;
-    padding-right: 30px;
-    padding-top: 20px;
+    font-size: 20px;
+    width: 50%;
+    height: 15px;
+    align-items: center
 }
 
 .social-links li a i:hover {
