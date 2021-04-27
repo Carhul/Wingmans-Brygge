@@ -66,9 +66,9 @@ footer {
 .social-links li a i {
     color: #383737;
     font-size: 20px;
-    width: 50%;
+    width: 10%;
     height: 15px;
-    align-items: center
+    padding-left: 5px;
 }
 
 .social-links li a i:hover {
