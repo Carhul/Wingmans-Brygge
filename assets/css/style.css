@@ -19,9 +19,13 @@ header {
     padding-left: 10px;
 }
 
-.navbar-toggler-icon {
-    border: #302d2d;
+/* CREDIT - How to remove the blue border around the navbar toggler icon: https: //stackoverflow.com/questions/50668594/remove-border-color-for-navbar-toggler-hamburger-icon-bootstrap-4 */
+
+button:focus {
+    outline: none;
+    outline: none -webkit-focus-ring-color;
 }
+
 
 /* ----------------------------------------Main */
 
