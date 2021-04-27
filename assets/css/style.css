@@ -21,14 +21,13 @@ header {
     color: #faedce;
 }
 
-.logo {
-    max-width: 100%;
-}
+
 
 /* ----------------------------------------Main */
 
 .main-bg {
     background-color: #faedce;
+    max-width: 100%;
 }
 
 /* ----------------------------------------Footer */
