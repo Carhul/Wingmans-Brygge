@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
+.text-aligment {
+    text-align: center;
+}
 
 /* ----------------------------------------Header */
 
@@ -34,11 +37,11 @@ button:focus {
 
 /* ----------------------------------------Main */
 
-.main-bg {
+#index-bg {
     background-color: #ffebb9;
-    background: cover;
-    height: 100%;
+    background-size: 100%;
 }
+
 
 /* ----------------------------------------Footer */
 
@@ -51,11 +54,6 @@ footer {
 
 .footer-bg {
     background-color: #C7782B;
-}
-
-#name-address,
-#phone-email {
-    text-align: center;
 }
 
 .social-links li a i {
