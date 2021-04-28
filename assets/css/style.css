@@ -1,14 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
+/* --- Targets all HTML elements unless otherwise is specifically stated */
+
 .text-aligment {
     text-align: center;
+}
+
+.text-font {
+    font-family: "Open Sans", sans-serif;
+}
+
+.font-size-color {
+    font-size: 20px;
+    color: #302d2d;
+}
+
+.bg-color-main {
+    background-color: #ffebb9;
 }
 
 /* ----------------------------------------Header */
 
 header {
     background-color: #C7782B;
-    font-family: "Open Sans", sans-serif;
     font-size: 20px;
     font-weight: 200;
     color: #302d2d;
@@ -16,7 +30,7 @@ header {
 
 .navbar-brand {
     padding-left: 10px;
-    font-size: 22px;
+    font-size: 23px;
 }
 
 .nav-item {
@@ -47,7 +61,7 @@ button:focus {
     width: 100%;
 }
 
-/* --- CREDIT - for making the hero image fit perfect */
+/* --- CREDIT - for making the hero image fit perfect: Ruairidh MacArthur. On GitHub, roomacarthur and his milestone one; seastainability */
 
 #hero {
     grid-area: hero;
@@ -64,10 +78,16 @@ button:focus {
     object-fit: cover;
 }
 
+.founders-name {
+    font-size: 15px;
+    color: #302d2d;
+    font-weight: 300;
+}
+
+
 /* ----------------------------------------Footer */
 
 footer {
-    font-family: "Open Sans", sans-serif;
     font-size: 15px;
     font-weight: 200;
     color: #383737;
