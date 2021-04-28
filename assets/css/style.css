@@ -35,14 +35,9 @@ button:focus {
 /* ----------------------------------------Main */
 
 .main-bg {
-    background-color: #faedce;
-    max-width: 100%;
-}
-
-img {
-    max-width: 600px;
-    height: auto;
-
+    background-color: #ffebb9;
+    background: cover;
+    height: 100%;
 }
 
 /* ----------------------------------------Footer */
