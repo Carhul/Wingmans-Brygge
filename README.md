@@ -4,8 +4,8 @@ _True passion for exclusive and well made beer._
 ![Wingmans](wireframes/desktop/index_desktop.jpg)  
 
 
-## Contents ##  
-
+## Contents ## 
+_To open links in external page, use CTRL+click (Windows/Linux) or CMD+click MacOS)._
 * UX    
     * Project goals  
     * User goals  
