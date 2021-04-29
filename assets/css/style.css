@@ -52,17 +52,17 @@ button:focus {
 /* ----------------------------------------Main */
 
 #logo {
-    grid-area: hero;
-    padding-bottom: 10px;
-    height: 600px;
+    grid-area: logo;
+    padding: 2px;
+    height: 800px;
     position: relative;
 }
 
 #logo-image {
     width: 100%;
-    height: 600px;
+    height: 800px;
     position: absolute;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 
@@ -70,7 +70,7 @@ button:focus {
 
 #hero {
     grid-area: hero;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     height: 300px;
     position: relative;
 }
