@@ -51,15 +51,20 @@ button:focus {
 
 /* ----------------------------------------Main */
 
-#index-bg {
-    background-color: #ffebb9;
-    background-size: 100%;
+#logo {
+    grid-area: hero;
+    padding-bottom: 10px;
+    height: 600px;
+    position: relative;
 }
 
-#about-top-img {
-    height: 600px;
+#logo-image {
     width: 100%;
+    height: 600px;
+    position: absolute;
+    object-fit: cover;
 }
+
 
 /* --- CREDIT - for making the hero image fit perfect: Ruairidh MacArthur. On GitHub, roomacarthur and his milestone one; seastainability */
 
