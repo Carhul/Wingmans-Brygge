@@ -150,6 +150,6 @@ Content and text used in this website is written by me in collaboration with the
 * [Pumpkin](https://www.pumpkinwebdesign.com/web-design-manchester/top-user-expectations-for-web-design-in-2021/) for inspiration on _user requirements and expectations_ section  
   
 #### Images ####  
-About page - images is provided by [Unsplash](https://unsplash.com/). At the top from [Fred](https://unsplash.com/photos/0yqa0rMCsYk), and reviews from [Ivana](https://unsplash.com/photos/_7LbC5J-jw4), [Toa](https://unsplash.com/photos/O3ymvT7Wf9U) and [Ian](https://unsplash.com/photos/d1UPkiFd04A).  
+About page - images is provided by [Unsplash](https://unsplash.com/). At the top from [Fred](https://unsplash.com/photos/0yqa0rMCsYk), and reviews from [Ivana](https://unsplash.com/photos/_7LbC5J-jw4), [Toa](https://unsplash.com/photos/O3ymvT7Wf9U) and [Amir](https://unsplash.com/photos/BFxyTaw3PsM).  
   
   Contact page - background image by [Pradnyal](https://unsplash.com/photos/1MqDCpA-2hU).
