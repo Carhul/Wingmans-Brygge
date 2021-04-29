@@ -19,7 +19,7 @@
     background-color: #ffebb9;
 }
 
-/* ----------------------------------------Header */
+/* ----------------------------------------Header - All pages */
 
 header {
     background-color: #C7782B;
@@ -49,7 +49,7 @@ button:focus {
 }
 
 
-/* ----------------------------------------Main */
+/* ----------------------------------------Main - Home (index) */
 
 #logo {
     grid-area: logo;
@@ -65,6 +65,7 @@ button:focus {
     object-fit: contain;
 }
 
+/* ----------------------------------------Main - About Us */
 
 /* --- CREDIT - for making the hero image fit perfect: Ruairidh MacArthur. On GitHub, roomacarthur and his milestone one; seastainability */
 
@@ -83,6 +84,8 @@ button:focus {
     object-fit: cover;
 }
 
+#founders {}
+
 .founders-name {
     font-size: 15px;
     color: #302d2d;
@@ -90,7 +93,7 @@ button:focus {
 }
 
 
-/* ----------------------------------------Footer */
+/* ----------------------------------------Footer - All pages */
 
 footer {
     font-size: 15px;
