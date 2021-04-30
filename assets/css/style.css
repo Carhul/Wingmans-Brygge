@@ -84,6 +84,19 @@ button:focus {
     object-fit: cover;
 }
 
+#founders-img {
+    grid-area: img-responsive;
+    height: 300px;
+    position: relative;
+}
+
+.img-responsive {
+    width: 60%;
+    height: 300px;
+    position: absolute;
+    object-fit: cover;
+}
+
 .founders-name {
     font-size: 15px;
     color: #302d2d;
