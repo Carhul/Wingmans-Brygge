@@ -88,6 +88,7 @@ button:focus {
     grid-area: img-responsive;
     height: 300px;
     position: relative;
+    text-align: center;
 }
 
 .img-responsive {
@@ -101,6 +102,11 @@ button:focus {
     font-size: 15px;
     color: #302d2d;
     font-weight: 300;
+    text-align: center;
+}
+
+#founders-icon {
+    padding-right: 15px;
 }
 
 
