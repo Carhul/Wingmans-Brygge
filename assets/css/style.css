@@ -84,10 +84,6 @@ button:focus {
     object-fit: cover;
 }
 
-.img-responsive {
-    display: block;
-}
-
 .founders-name {
     font-size: 15px;
     color: #302d2d;
