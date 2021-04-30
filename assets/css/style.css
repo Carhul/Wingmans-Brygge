@@ -84,9 +84,8 @@ button:focus {
     object-fit: cover;
 }
 
-.founders-img {
-    height: auto;
-    width: 200px;
+.img-responsive {
+    display: block;
 }
 
 .founders-name {
