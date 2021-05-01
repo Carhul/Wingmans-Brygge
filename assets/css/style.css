@@ -108,7 +108,22 @@ button:focus {
     padding-right: 15px;
 }
 
+/* --- CREDIT - for making the nice fade-divider: Chris Coyier, https://jsfiddle.net/ZTz7Q/ */
+
+.divider-fade {
+    margin: 25px 0;
+    height: 1px;
+    background: black;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#ffebb9), to(#ffebb9), color-stop(50%, #302d2d));
+}
+
 /* ----------------------------------------Main - About Us - Reviews */
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 200;
+    color: #302d2d;
+}
 
 .media img {
     height: auto;
