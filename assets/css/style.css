@@ -98,6 +98,7 @@ button:focus {
 }
 
 .founders-name {
+    font-family: "Open Sans", sans-serif;
     font-size: 15px;
     color: #302d2d;
     font-weight: 300;
@@ -113,7 +114,7 @@ button:focus {
 .divider-fade {
     margin: 25px 0;
     height: 1px;
-    background: black;
+    background: #302d2d;
     background: -webkit-gradient(linear, 0 0, 100% 0, from(#ffebb9), to(#ffebb9), color-stop(50%, #302d2d));
 }
 
@@ -128,6 +129,11 @@ h2 {
 .media img {
     height: auto;
     width: 20%;
+}
+
+.media-body {
+    font-family: "Open Sans", sans-serif;
+    color: #302d2d;
 }
 
 /* ----------------------------------------Footer - All pages */
