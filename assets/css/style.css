@@ -74,6 +74,10 @@ button:focus {
     object-fit: cover;
 }
 
+#founders {
+    width: inherit;
+}
+
 #founders-img {
     height: 300px;
     position: relative;
