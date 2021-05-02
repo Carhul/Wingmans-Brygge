@@ -151,11 +151,12 @@ body{
 
 .form-bg {
     background: #ffebb9;
-    padding: 3%;
+    padding: 2%;
     border-top-left-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
+    mix-blend-mode: hard-light;
 }
 
 .contact-form label {
@@ -174,8 +175,10 @@ body{
 }
 
 .bg-black {
-    background-color: black;
+    background-image: url(assets/images/contact/pradnyal-gandhi-1MqDCpA-2hU-unsplash.jpg);
+    background-color: rgb(0, 0, 0);
 }
+
 
 
 /* ----------------------------------------Footer - All pages */
