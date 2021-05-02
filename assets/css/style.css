@@ -74,10 +74,6 @@ button:focus {
     object-fit: cover;
 }
 
-#founders {
-    width: inherit;
-}
-
 #founders-img {
     height: 300px;
     position: relative;
@@ -128,6 +124,12 @@ h2 {
 .media-body {
     font-family: "Open Sans", sans-serif;
     color: #302d2d;
+}
+
+/* ----------------------------------------Main - contact */
+
+.bg-black {
+    background-color: black;
 }
 
 /* ----------------------------------------Footer - All pages */
