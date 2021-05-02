@@ -174,9 +174,10 @@ body{
     box-shadow: none;
 }
 
-.bg-black {
-    background-image: url(assets/images/contact/pradnyal-gandhi-1MqDCpA-2hU-unsplash.jpg);
+.background {
+    background-image: url(../images/contact/pradnyal-gandhi-1MqDCpA-2hU-unsplash.jpg);
     background-color: rgb(0, 0, 0);
+    background-size: cover;
 }
 
 
