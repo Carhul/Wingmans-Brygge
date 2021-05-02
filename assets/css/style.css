@@ -149,9 +149,11 @@ body{
     margin-bottom: 10%;
 }
 
-.col-md-9 {
-    background: #fff;
+.form-bg {
+    background: #ffebb9;
     padding: 3%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
 }
