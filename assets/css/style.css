@@ -76,8 +76,6 @@ button:focus {
 
 #founders-img {
     height: 300px;
-    position: relative;
-    text-align: center;
 }
 
 .img-responsive {
@@ -127,11 +125,7 @@ h2 {
 }
 
 /* ----------------------------------------Main - contact */
-/*
-body{
-    background-color: #25274d;
-}
-*/
+
 .contact {
     padding: 4%;
     height: 400px;
@@ -161,6 +155,7 @@ body{
 
 .contact-form label {
     font-weight: 600;
+    font-family: "Open Sans", sans-serif;
 }
 
 .contact-form button {
@@ -168,6 +163,7 @@ body{
     color: #383737;
     font-weight: 600;
     width: 65%;
+    font-family: "Open Sans", sans-serif;
 }
 
 .contact-form button:focus {
