@@ -184,9 +184,6 @@ footer {
     font-size: 15px;
     font-weight: 200;
     color: #383737;
-}
-
-.footer-bg {
     background-color: #C7782B;
 }
 
@@ -197,6 +194,11 @@ footer {
     padding-left: 5px;
 }
 
-.social-links li a i:hover {
+a {
+    color: #383737;
+}
+
+.social-links li a i,
+a:hover {
     color: #2c2c2b;
 }
