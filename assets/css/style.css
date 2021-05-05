@@ -196,6 +196,8 @@ footer {
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
+    bottom: 0;
+    position: fixed;
 }
 
 .social-links li a i {
