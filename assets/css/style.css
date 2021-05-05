@@ -22,10 +22,13 @@
 /* ----------------------------------------Header - All pages */
 
 header {
-    background-color: #C7782B;
     font-size: 20px;
     font-weight: 200;
     color: #302d2d;
+}
+
+.fixed-top {
+    background-color: #C7782B;
 }
 
 .navbar-brand {
