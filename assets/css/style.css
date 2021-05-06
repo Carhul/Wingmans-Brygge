@@ -209,9 +209,9 @@ h2 {
 }
 
 
-/* ----------------------------------------Footer - All pages */
+/* -------------------------------------Footer - Index (Home) */
 
-footer {
+.footer-index {
     font-size: 15px;
     font-weight: 200;
     color: #383737;
@@ -219,6 +219,40 @@ footer {
     bottom: 0;
     position: fixed;
 }
+
+/* ------------------Footer - About Us---------------- */
+
+.footer-about {
+    font-size: 15px;
+    font-weight: 200;
+    color: #383737;
+    background-color: #C7782B;
+    bottom: 0;
+}
+
+/* ------------------Footer - gallery---------------- */
+
+.footer-gallery {
+    font-size: 15px;
+    font-weight: 200;
+    color: #383737;
+    background-color: #C7782B;
+    bottom: 0;
+    position: fixed;
+}
+
+/* ------------------Footer - Contact---------------- */
+
+.footer-contact {
+    font-size: 15px;
+    font-weight: 200;
+    color: #383737;
+    background-color: #C7782B;
+    bottom: 0;
+    position: fixed;
+}
+
+/* ------------------Footer - All pages---------------- */
 
 .social-links li a i {
     color: #383737;
