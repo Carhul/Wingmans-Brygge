@@ -122,6 +122,8 @@ button:focus {
     object-fit: cover;
 }
 
+/* --- CREDIT end ---*/
+
 #founders-img {
     height: 300px;
 }
@@ -139,6 +141,10 @@ button:focus {
     color: #302d2d;
     font-weight: 300;
     text-align: center;
+}
+
+.container-about {
+    padding-bottom: 8px;
 }
 
 #founders-icon {
@@ -172,7 +178,7 @@ h2 {
     color: #302d2d;
 }
 
-/* ----------------------------------------Main - Gallery */
+/* -------------------Main - Gallery---------------- */
 
 .main-gallery {
     padding-top: 62px;
@@ -263,6 +269,13 @@ h2 {
     background-color: #C7782B;
     bottom: 0;
     position: fixed;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .footer-index {
+        height: 200px;
+    }
 }
 
 /* ------------------Footer - About Us---------------- */
