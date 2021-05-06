@@ -304,7 +304,7 @@ input[type=email] {
 /* -------------------------------------Footer - Index (Home) */
 
 .footer-index {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
@@ -322,7 +322,7 @@ input[type=email] {
 /* ------------------Footer - About Us---------------- */
 
 .footer-about {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
@@ -332,7 +332,7 @@ input[type=email] {
 /* ------------------Footer - gallery---------------- */
 
 .footer-gallery {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
@@ -342,7 +342,7 @@ input[type=email] {
 /* ------------------Footer - Contact---------------- */
 
 .footer-contact {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
