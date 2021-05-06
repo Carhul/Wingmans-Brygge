@@ -14,6 +14,10 @@
     background-color: #ffebb9;
 }
 
+.font-size-color {
+    font-size: 17px;
+}
+
 /* ----------------------------------------Header - All pages */
 
 header {
@@ -292,6 +296,10 @@ input[type=email] {
     border-bottom: 1px solid #383737;
     padding-top: 25px;
     font-size: 12px;
+}
+
+.container-input {
+    size: 10px;
 }
 
 
