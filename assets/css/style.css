@@ -142,8 +142,11 @@ h2 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: right center;
     background-color: black;
+    height: 100%;
+    width: 100%;
+    transition: opacity 700ms;
 }
 
 /* -----------------------Main - Contact - Contact form */
