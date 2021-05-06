@@ -215,7 +215,7 @@ h2 {
 @media only screen and (min-width: 600px) {
     .container-form {
         opacity: 0.9;
-        padding-top: 200px
+        padding-top: 200px;
     }
 }
 
@@ -223,7 +223,7 @@ h2 {
 @media only screen and (min-width: 768px) {
     .container-form {
         opacity: 0.9;
-        padding-top: 400px;
+        padding-top: 262px;
     }
 }
 
@@ -231,8 +231,7 @@ h2 {
 @media only screen and (min-width: 992px) {
     .container-form {
         opacity: 0.9;
-        padding-top: 550px;
-        padding-bottom: 534px;
+        padding-top: 262px;
     }
 }
 
@@ -346,7 +345,8 @@ input[type=email] {
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
-    bottom: 0px;
+    bottom: 0;
+    position: fixed;
 }
 
 /* ------------------Footer - All pages---------------- */
