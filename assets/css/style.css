@@ -256,8 +256,6 @@ h2 {
     margin-bottom: 15%;
 }
 
-
-
 .form-bg {
     background: #ffebb9;
     padding: 2%;
@@ -268,16 +266,18 @@ h2 {
 }
 
 .contact-form label {
-    font-weight: 600;
+    font-weight: 100;
     font-family: "Open Sans", sans-serif;
+    font-size: 20px;
 }
 
 .contact-form button {
     background: #C7782B;
     color: #383737;
-    font-weight: 600;
+    font-weight: 100;
     width: 65%;
     font-family: "Open Sans", sans-serif;
+    font-size: 20px;
 }
 
 .form-control {
