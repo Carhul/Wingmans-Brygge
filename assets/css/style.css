@@ -71,7 +71,7 @@ button:focus {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .container-index {
-        padding-top: 100px;
+        padding-top: 35px;
         position: relative;
         width: 100%;
     }
