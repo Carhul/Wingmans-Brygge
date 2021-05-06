@@ -10,11 +10,6 @@
     font-family: "Open Sans", sans-serif;
 }
 
-.font-size-color {
-    font-size: 20px;
-    color: #302d2d;
-}
-
 .bg-color-main {
     background-color: #ffebb9;
 }
@@ -22,7 +17,7 @@
 /* ----------------------------------------Header - All pages */
 
 header {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 200;
     color: #302d2d;
 }
