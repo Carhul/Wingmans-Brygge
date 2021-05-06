@@ -55,6 +55,7 @@ button:focus {
         padding-top: 60px;
         position: relative;
         width: 100%;
+        padding-bottom: 275px;
     }
 }
 
@@ -303,13 +304,6 @@ input[type=email] {
     background-color: #C7782B;
     bottom: 0;
     position: fixed;
-}
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .footer-index {
-        height: 200px;
-    }
 }
 
 /* ------------------Footer - About Us---------------- */
