@@ -215,7 +215,7 @@ h2 {
 @media only screen and (min-width: 600px) {
     .container-form {
         opacity: 0.9;
-        padding-top: 250px
+        padding-top: 200px
     }
 }
 
@@ -232,6 +232,7 @@ h2 {
     .container-form {
         opacity: 0.9;
         padding-top: 550px;
+        padding-bottom: 534px;
     }
 }
 
@@ -243,6 +244,10 @@ h2 {
     }
 }
 
+.contact-info h2 {
+    margin-bottom: 10%;
+}
+
 .contact-info {
     margin-top: 10%;
 }
@@ -251,14 +256,15 @@ h2 {
     margin-bottom: 15%;
 }
 
-.contact-info h2 {
-    margin-bottom: 10%;
-}
+
 
 .form-bg {
     background: #ffebb9;
     padding: 2%;
-    mix-blend-mode: soft-light;
+}
+
+.form-group {
+    padding-top: 11px;
 }
 
 .contact-form label {
@@ -274,10 +280,6 @@ h2 {
     font-family: "Open Sans", sans-serif;
 }
 
-.contact-form button:focus {
-    box-shadow: none;
-}
-
 .form-control {
     display: block;
     width: 100%;
@@ -286,13 +288,16 @@ h2 {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #383737;
     background-color: #ffebb9;
-    border: none;
+    padding-bottom: 10px;
 }
 
-#email {
-    color: #383737;
+input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #383737;
+    padding-top: 25px;
+    font-size: 12px;
 }
 
 
@@ -341,8 +346,7 @@ h2 {
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
-    bottom: 0;
-    position: fixed;
+    bottom: 0px;
 }
 
 /* ------------------Footer - All pages---------------- */
