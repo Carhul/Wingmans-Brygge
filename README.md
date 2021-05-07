@@ -146,8 +146,14 @@ The testing process for me has been through the intire building of this project,
   
   To deploy on GitHub pages from it`s GitHub respository, the following steps were taken:  
     
-  1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page")  
-  2. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository")
+  1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").  
+  2. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository").  
+  3. At the top of the repository, select Settings from the menu items.  
+  4. Scroll down the Settings page to the "GitHub Pages" section.  
+  5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".  
+  6. Upon selection, the page will automatically refresh meaning that the website is now deployed.  
+  7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.  
+  8. At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
