@@ -69,6 +69,34 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 
 ### Development planes ###  
 
+In order to create a website that fulfilled the expectations as described above, I worked closely with the founders throughout the process.  
+
+### Strategy ###  
+  
+Divided into two categories, the website will focus on the following target audiences:  
+  
+  * ### Demographic: ###  
+    
+    * 25 - 55 year olds  
+    * Particularly interested in homebrew  
+
+  * ### Psychographics: ###  
+    
+    * Personality & Attitudes:  
+      * Quality conscious  
+      * Social  
+
+    * ### Values: ###  
+
+      * Appreciates new acquaintances  
+      * You only live once  
+    
+    * ### Lifestyles: ###  
+     
+      * Beer lovers  
+
+
+
 
 ### Design choices ### 
 The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
