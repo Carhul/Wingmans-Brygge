@@ -5,7 +5,7 @@ _True passion for exclusive and well made beer._
 
 [View the live project here](https://carhul.github.io/Wingmans-Brygge/)
 
-## Contents ## 
+## Table of Contents ## 
 
 * UX    
     * [Project goals](#project-goals)  
@@ -78,7 +78,7 @@ The design of this website has been created based on the logo of Wingmans and th
   Gallery page - representative images of Wingman's in action, process and equipment. Here you can get to know them a little bit more, by looking at non-styled real images taken by the founders them self.   
   
   Contact page - contains a contact form where you can contact the founders by typing your your email in the input field. There is also a possibility to write them something if you wish. The background has an exclusive wallpaper to break a little from the other pages, and to create an evocative user.
-  
+
 * Fonts  
   [Google Fonts](https://fonts.google.com/specimen/Open+Sans): Open Sans, sans-serif.
 
