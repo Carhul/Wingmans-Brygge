@@ -7,8 +7,8 @@ _True passion for exclusive and well made beer._
 
 ## Table of Contents ## 
 
-* UX    
-    * [Project goals](#project-goals)  
+* [Introduction & project goals](#introduction-&-project-goals)
+* [UX](#ux)      
     * [User stories](#user-stories)
     * [Development planes](#development-planes)      
     * [Design](#design)  
@@ -21,14 +21,15 @@ _True passion for exclusive and well made beer._
 * [Deployment](#deployment)    
 * [Credit](#credit)  
 ---
-## UX ##  
-  
-### Project Goals ###  
-This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.  
-  
+   
+### Introduction & Project Goals ###  
+This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.    
     
     Note; the review section is fictional as this is a new approach for The Wingmans.  
-    It needed to be included as part of the assessment criteria. But is highly relevant as it wil be updated with real reviews in the future.
+    It needed to be included as part of the assessment criteria. 
+    But is highly relevant as it wil be updated with real reviews in the future.
+
+## UX ##
 
 ### User Stories ###  
 * As a user I want to see a nice and inspiring website who makes me want to learn more about home brew  
