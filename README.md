@@ -148,10 +148,12 @@ Each page of the website features a consistent responsive navigational system:
 The Header contains the name of The Wingmans at the left, and the navbar at the right on large screen sizes. When down to medium or less, the navbar collapses but the name remains at the left. The Footer fills one line on large screens, but stack on top of each other on medium or less screen size. 
 
 Features that have been implemented:  
-* Easy to navigate on all screensizes  
-* Social media links for more inspiration and more knowledge of who the founders is
+* Easy to navigate on all screensizes.  
+* Social media links for more inspiration and more knowledge of who the founders is.
 * Link to [Taplist](https://taplist.io/) On Taplist you can watch real-time what beer the Wingmans have on their tap, and how much! Up for a taste? 
-* Contact form with submit button  
+* Contact form with submit button. Here you can get the steps for success, ask questions, or just say hello.  
+* About Us page where you get to know the vision of the founders.  
+* Reviews Section where you can get an impression of how it is to collaborate and speak with the founders.
 
 Features that will be implemented in the future:  
 * Video blog / link to youtube  
@@ -167,11 +169,19 @@ Languages
 
 Tools / Libraries  
 * [Git](https://git-scm.com/)  
+Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.    
 * [Bootstrap](https://getbootstrap.com/)  
+Bootstrap was used to implement the responsiveness of the site, with bootstrap classes.  
 * [Fontawsome](https://fontawesome.com/)  
+Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.  
 * [Google Fonts](https://fonts.google.com/)  
+Google fonts was used to import the fonts "Open Sans", sans-serif into the style.css file.  
 * [Unsplash](https://unsplash.com/)  
+Unsplash was used for the hero image, reviews section as well as the background wallpaper on contact page.  
 * [Coolors](https://coolors.co/)  
+Coolors was used to make the collorpallet.  
+* [Multi Device Mockup Generator](http://techsini.com/multi-mockup/index.php)  
+Multi device mockup was used in order to see the responsive design throughout the process and to generate mockup image to readme file.  
 
 ### Testing ###  
 The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on. See [Testing-file](TESTING.md) for testing before deployment.
