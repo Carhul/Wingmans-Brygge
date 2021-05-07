@@ -145,12 +145,12 @@ All the colours were taken from the logo to ensure a harmonious expression.
 
 Each page of the website features a consistent responsive navigational system:  
 
-The Header contains the name of The Wingmans
+The Header contains the name of The Wingmans at the left, and the navbar at the right on large screen sizes. When down to medium or less, the navbar collapses but the name remains at the left. The Footer fills one line on large screens, but stack on top of each other on medium or less screen size. 
 
 Features that have been implemented:  
 * Easy to navigate on all screensizes  
-* Social media links  
-* Link to [Taplist](https://taplist.io/)  
+* Social media links for more inspiration and more knowledge of who the founders is
+* Link to [Taplist](https://taplist.io/) On Taplist you can watch real-time what beer the Wingmans have on their tap, and how much! Up for a taste? 
 * Contact form with submit button  
 
 Features that will be implemented in the future:  
