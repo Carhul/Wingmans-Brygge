@@ -85,11 +85,7 @@ All the colours were taken from the logo to ensure a harmonious expression.
   
   * Navigation/footer: Ochre C7782B  
   * Background: Banana Mania FFEBB9  
-  * Contact bg/text: Black 000000
-  * Contact form: Cornsilk FFF6DF  
-      
-        
-  Background colour on contact form was initially intended to be identical to the bg colour on the other pages, but became too yellow and needed to be adjusted to a lighter tone.  
+  * Contact bg/text: Black 000000 / Jet 383737    
 
   Color Scheme from [Coolors](https://coolors.co/)  
 
