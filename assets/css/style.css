@@ -228,7 +228,7 @@ h2 {
         opacity: 0.9;
         text-align: center;
         background-color: #ffebb9;
-        margin: 380px 30px;
+        margin: 300px 30px;
         padding: 1rem 1rem;
     }
 }
@@ -239,7 +239,7 @@ h2 {
         opacity: 0.9;
         text-align: center;
         background-color: #ffebb9;
-        margin: 400px 30px;
+        margin: 350px 30px;
         padding: 1rem 1rem;
     }
 }
@@ -250,71 +250,11 @@ h2 {
         opacity: 0.9;
         text-align: center;
         background-color: #ffebb9;
-        margin: 430px 30px;
+        margin: 380px 30px;
         padding: 1rem 1rem;
     }
 }
 
-/*
-.contact-info h2 {
-    margin-bottom: 10%;
-}
-
-.contact-info {
-    margin-top: 10%;
-}
-
-.contact-info img {
-    margin-bottom: 15%;
-}
-
-.form-bg {
-    background: #ffebb9;
-    padding: 2%;
-}
-
-.form-group {
-    padding-top: 11px;
-}
-
-.contact-form label {
-    font-family: "Open Sans", sans-serif;
-    font-size: 20px;
-}
-
-.contact-form button {
-    background: #C7782B;
-    color: #383737;
-    width: 65%;
-    font-family: "Open Sans", sans-serif;
-    font-size: 20px;
-}
-
-.contact-form button:focus {
-    outline: none;
-}
-
-.form-control {
-    display: block;
-    width: 100%;
-    height: calc(1.5em + .75rem + 2px);
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    background-color: #ffebb9;
-    padding-bottom: 10px;
-}
-
-input[type=email] {
-    background: transparent;
-    border: none;
-    border-bottom: 1px solid #383737;
-    padding-top: 25px;
-    font-size: 12px;
-}
-
------------------------------------- */
 /* -------------------------------------Footer - Index (Home) */
 
 .footer-index {
