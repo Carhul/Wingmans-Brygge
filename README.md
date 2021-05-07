@@ -150,4 +150,6 @@ Content and text used in this website is written by me in collaboration with the
 #### Images ####  
 About page - images is provided by [Unsplash](https://unsplash.com/). At the top from [Fred](https://unsplash.com/photos/0yqa0rMCsYk), and reviews from [Ivana](https://unsplash.com/photos/_7LbC5J-jw4), [Atikh](https://unsplash.com/photos/_KaMTEmJnxY) and [Amir](https://unsplash.com/photos/BFxyTaw3PsM).  
   
-  Contact page - background image by [Pradnyal](https://unsplash.com/photos/1MqDCpA-2hU).
+  Contact page - background image by [Pradnyal](https://unsplash.com/photos/1MqDCpA-2hU).  
+    
+I want to give a huge thank you to XX FINISH THIS SECTION
