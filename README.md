@@ -133,15 +133,19 @@ The design of this website has been created based on the logo of Wingmans and th
 * Colours  
 All the colours were taken from the logo to ensure a harmonious expression.  
   
+  * Contact bg/text: Jet 383737 / Black 000000
   * Navigation/footer: Ochre C7782B  
-  * Background: Banana Mania FFEBB9  
-  * Contact bg/text: Jet 383737 / Black 000000   
+  * Background: Banana Mania FFEBB9     
 
   Color Scheme from [Coolors](https://coolors.co/);  
 
   ![image](wireframes/colorpallet.png)   
 
 ### Features ###  
+
+Each page of the website features a consistent responsive navigational system:  
+
+The Header contains the name of The Wingmans
 
 Features that have been implemented:  
 * Easy to navigate on all screensizes  
