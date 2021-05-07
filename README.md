@@ -10,11 +10,8 @@ _True passion for exclusive and well made beer._
 * UX    
     * [Project goals](#project-goals)  
     * [User stories](#user-stories)
-    * [Development planes](#development-planes)  
-    * [User goals](#user-goals)    
-    * [Site owner goals](#site-owner-goals)  
-    * [User requirements and expectations](#user-requirements-and-expectations)    
-    * [Design choices](#design-choices)  
+    * [Development planes](#development-planes)      
+    * [Design](#design)  
         * Fonts  
         * Icons  
         * Colours  
@@ -95,7 +92,7 @@ Divided into two categories, the website will focus on the following target audi
 * Operational contact form for e-mail address input  
 * The website is quick to load  
 
-### Design choices ### 
+### Design ### 
 The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
   
   As the site is ment to be an inspiration-page, but not with to much content as the founders also want to establish contact with others who may have, or in the future might get, the same passion; it was importent to keep the site simple and clean.  
