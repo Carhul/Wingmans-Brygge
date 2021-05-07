@@ -82,7 +82,7 @@ Gallery page - representative images of Wingman's in action, process and equipme
   [Google Fonts](https://fonts.google.com/specimen/Open+Sans): Open Sans, sans-serif.
 
 * Icons  
-[Fontawsome](https://fontawesome.com/icons?d=gallery&p=2) provided the icons for [Facebook](https://fontawesome.com/icons/facebook-square?style=brands), [Instagram](https://fontawesome.com/icons/instagram-square?style=brands) and [Snapchat](https://fontawesome.com/icons/snapchat-square?style=brands).
+[Fontawsome](https://fontawesome.com/icons?d=gallery&p=2) provided the icons for [Facebook](https://fontawesome.com/icons/facebook-square?style=brands), [Instagram](https://fontawesome.com/icons/instagram-square?style=brands) and [Snapchat](https://fontawesome.com/icons/snapchat-square?style=brands) + [Hand point](https://fontawesome.com/icons/hand-point-right?style=solid) on founders page.
 
 * Colours  
 All the colours were taken from the logo to ensure a harmonious expression.  
