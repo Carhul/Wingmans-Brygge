@@ -236,7 +236,6 @@ textarea {
     /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
-/* Style the submit button with a specific background color etc */
 input[type=submit] {
     background-color: #C7782B;
     color: #383737;
@@ -246,17 +245,23 @@ input[type=submit] {
     cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
     background-color: #da8939;
 }
 
-/* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
     background-color: #FFEBB9;
     padding: 20px;
     opacity: 0.9;
+}
+
+@media only screen and (min-width: 992px) {
+    .form-position {
+        margin-top: 40%;
+        margin-right: 54%;
+        margin-left: 4%;
+    }
 }
 
 /*
