@@ -6,7 +6,7 @@ _True passion for exclusive and well made beer._
 [View the live project here](https://carhul.github.io/Wingmans-Brygge/)
 
 ## Contents ## 
-_To open links in external page, use CTRL+click (Windows/Linux) or CMD+click MacOS)._
+
 * UX    
     * [Project goals](#project-goals)  
     * [User goals](#user-goals)  
@@ -71,13 +71,14 @@ The design of this website has been created based on the logo of Wingmans and th
   
   As the site is ment to be an inspiration-page, but not with to much content as the founders also want to establish contact with others who may have, or in the future might get, the same passion; it was importent to keep the site simple and clean.  
 
-Index page - contains only the navbar and footer who is the same at all pages, in addition to the logo.  
+  Index page - contains only the navbar and footer who is the same at all pages, in addition to the logo. The Wingmans logo are used on all their beer labels and i think its a good first impression to the site.   
   
-  About page - an evocative image at the top with a following introduction to the founders vision and picture. Then a smal review section at the end.  
+  About page - an evocative image at the top with a following introduction where you get an insight to the founders vision, and also what they look like. Then a review section at the end, where others share there experiance on how the collaboration with The Wingmans has been.  
     
-Gallery page - representative images of Wingman's in action, process and equipment.  
+  Gallery page - representative images of Wingman's in action, process and equipment. Here you can get to know them a little bit more, by looking at non-styled real images taken by the founders them self.   
   
-  Contact page - contains a contact form with an exclusive wallpaper to break a little from the other pages and to create an evocative user.
+  Contact page - contains a contact form where you can contact the founders by typing your your email in the input field. There is also a possibility to write them something if you wish. The background has an exclusive wallpaper to break a little from the other pages, and to create an evocative user.
+  
 * Fonts  
   [Google Fonts](https://fonts.google.com/specimen/Open+Sans): Open Sans, sans-serif.
 
@@ -89,9 +90,9 @@ All the colours were taken from the logo to ensure a harmonious expression.
   
   * Navigation/footer: Ochre C7782B  
   * Background: Banana Mania FFEBB9  
-  * Contact bg/text: Black 000000 / Jet 383737    
+  * Contact bg/text: Jet 383737 / Black 000000   
 
-  Color Scheme from [Coolors](https://coolors.co/)  
+  Color Scheme from [Coolors](https://coolors.co/);  
 
   ![image](wireframes/colorpallet.png)  
 
