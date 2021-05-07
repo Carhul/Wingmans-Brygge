@@ -7,7 +7,7 @@ _True passion for exclusive and well made beer._
 
 ## Table of Contents ## 
 
-* [Introduction & project goals](#introduction-&-project-goals)
+* [Introduction & project goals](#introduction--project-goals)
 * [UX](#ux)      
     * [User stories](#user-stories)
     * [Development planes](#development-planes)      
@@ -23,7 +23,14 @@ _True passion for exclusive and well made beer._
 ---
    
 ### Introduction & Project Goals ###  
-This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.    
+
+Who is The Wingmans? The Wingmans are two middle-aged men who just loves beer! So they made it their hobby. They love to discover new tastes, recreate them or make a brand new. They also love to meet new people and are often spotted in the local bar - with a beer.
+
+This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.  
+
+This is the first of four Milestone Projects that I (the developer) must complete during my Full Stack Web Development Program at The Code Institute, and I´m very grateful for The Wingmans trust in me for makeing their first website. 
+
+The main requirements in this project is to make a responsive and static website with a minimum of three pages, using primarily HTML5 and CSS3.
     
     Note; the review section is fictional as this is a new approach for The Wingmans.  
     It needed to be included as part of the assessment criteria. 
