@@ -13,6 +13,7 @@ _True passion for exclusive and well made beer._
     * [User stories](#user-stories)  
     * [Site owner goals](#site-owner-goals)  
     * [User requirements and expectations](#user-requirements-and-expectations)  
+    * [Development planes](#development-planes)  
     * [Design choices](#design-choices)  
         * Fonts  
         * Icons  
@@ -65,6 +66,9 @@ This project`s goal is to help the site owners - the founders of Wingmans, to ac
 * Operational links to other pages that open in a new tab  
 * Operational contact form for e-mail address input  
 * The website is quick to load  
+
+### Development planes ###  
+
 
 ### Design choices ### 
 The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
