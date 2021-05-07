@@ -253,7 +253,7 @@ h2 {
     }
 }
 
-/* -------------------------------------Footer - Index (Home) */
+/* -------------------------------------Footer - All pages */
 
 .footer-index {
     font-size: 20px;
@@ -265,39 +265,6 @@ h2 {
 .footer-row {
     width: 100%;
 }
-
-/* ------------------Footer - About Us---------------- */
-
-.footer-about {
-    font-size: 20px;
-    font-weight: 200;
-    color: #383737;
-    background-color: #C7782B;
-    bottom: 0;
-}
-
-/* ------------------Footer - gallery---------------- */
-
-.footer-gallery {
-    font-size: 20px;
-    font-weight: 200;
-    color: #383737;
-    background-color: #C7782B;
-    bottom: 0;
-}
-
-/* ------------------Footer - Contact---------------- */
-
-.footer-contact {
-    font-size: 20px;
-    font-weight: 200;
-    color: #383737;
-    background-color: #C7782B;
-    bottom: 0;
-    position: fixed;
-}
-
-/* ------------------Footer - All pages---------------- */
 
 .social-links li a i {
     color: #383737;
