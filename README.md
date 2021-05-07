@@ -132,8 +132,10 @@ Features that will be implemented in the future:
 * Video blog / link to youtube  
 * Logbook  
 * Forum  
+* Background music / button on-off
 
 ### Testing ###  
+The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on. See [Testing-file](TESTING.md) for testing before deployment.
 
 ### Bugs ###  
 
