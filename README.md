@@ -9,11 +9,11 @@ _True passion for exclusive and well made beer._
 
 * UX    
     * [Project goals](#project-goals)  
-    * [User goals](#user-goals)  
-    * [User stories](#user-stories)  
-    * [Site owner goals](#site-owner-goals)  
-    * [User requirements and expectations](#user-requirements-and-expectations)  
+    * [User stories](#user-stories)
     * [Development planes](#development-planes)  
+    * [User goals](#user-goals)    
+    * [Site owner goals](#site-owner-goals)  
+    * [User requirements and expectations](#user-requirements-and-expectations)    
     * [Design choices](#design-choices)  
         * Fonts  
         * Icons  
@@ -33,39 +33,18 @@ _True passion for exclusive and well made beer._
 ## UX (User Experience) ##  
   
 ### Project Goals ###  
-This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew.  
+This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.  
   
     
     Note; the review section is fictional as this is a new approach for The Wingmans.  
     It needed to be included as part of the assessment criteria.
-
-### User Goals ###  
-* Find inspiration for home brew  
-* Images of home brew, the process, different beer types and equipment  
-* Links to other social media for further inspiration  
-* Ability to contact Wingmans directly by phone or email  
-* Ability to get the **steps for success** directly from Wingmans by entering an e-mail address in the contact page and push _Start brewing with Wingman`s!_  
 
 ### User Stories ###  
 * As a user I want to see a nice and inspiring website who makes me want to learn more about home brew  
 * As a user I want to know the founders vision  
 * As a user I want to see pictures of the founders and the home brew in action  
 * As a user I want to read reviews from others who have had contact with the founders  
-* As a user I want the ability to contact the founders for questions and guidance, and I also want the ability to let them contact me by leaving my e-mail address  
-
-### Site Owner Goals ###  
-* Inspire others with their work and passion for home brew  
-* Help others get started with home brew
-* Establish contact with others who share their passion  
-
-### User Requirements And Expectations ###   
-
-* Content that is visually appealing and well structured
-* Easy to navigate the website using the navbar  
-* Easy to read typography
-* Operational links to other pages that open in a new tab  
-* Operational contact form for e-mail address input  
-* The website is quick to load  
+* As a user I want the ability to contact the founders for questions and guidance, and I also want the ability to let them contact me by leaving my e-mail address.
 
 ### Development planes ###  
 
@@ -95,8 +74,26 @@ Divided into two categories, the website will focus on the following target audi
      
       * Beer lovers  
 
+### User Goals ###  
+* Find inspiration for home brew  
+* Images of home brew, the process, different beer types and equipment  
+* Links to other social media for further inspiration  
+* Ability to contact Wingmans directly by phone or email  
+* Ability to get the **steps for success** directly from Wingmans by entering an e-mail address in the contact page and push _Start brewing with Wingman`s!_    
 
+### Site Owner Goals ###  
+* Inspire others with their work and passion for home brew  
+* Help others get started with home brew
+* Establish contact with others who share their passion  
 
+### User Requirements And Expectations ###   
+
+* Content that is visually appealing and well structured
+* Easy to navigate the website using the navbar  
+* Easy to read typography
+* Operational links to other pages that open in a new tab  
+* Operational contact form for e-mail address input  
+* The website is quick to load  
 
 ### Design choices ### 
 The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
