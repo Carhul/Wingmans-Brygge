@@ -213,7 +213,28 @@ The testing process for me has been through the intire building of this project,
 
   How to run this project locally:  
 
-   1. 
+   1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/ "Link to Gitpod Browser extension download") Extension for Chrome.  
+   2. After installation, restart the browser.  
+   3. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").  
+   4. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository").  
+   5. Click the green "GitPod" button in the top right corner of the repository.
+  This will trigger a new gitPod workspace to be created from the code in github where you can work locally.  
+
+  How to run this project within a local IDE, such as VSCode:  
+
+  1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").  
+  2. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository").  
+  3. Under the repository name, click "Clone or download".  
+  4. In the Clone with HTTPs section, copy the clone URL for the repository.  
+  5. In your local IDE open the terminal.  
+  6. Change the current working directory to the location where you want the cloned directory to be made.  
+  7. Type 'git clone', and then paste the URL you copied in Step 3.  
+
+    git clone https://github.com/USERNAME/REPOSITORY  
+  
+  8. Press Enter. Your local clone will be created.  
+
+  Further reading and troubleshooting on cloning a repository from GitHub [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository "Link to GitHub troubleshooting").
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
