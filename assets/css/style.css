@@ -269,7 +269,15 @@ input[type=submit]:hover {
 
 @media only screen and (min-width: 992px) {
     .form-position {
-        margin-top: 40%;
+        margin-top: 25%;
+        margin-right: 54%;
+        margin-left: 4%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .form-position {
+        margin-top: 14%;
         margin-right: 54%;
         margin-left: 4%;
     }
