@@ -47,7 +47,6 @@ header {
 
 button:focus {
     outline: none;
-    outline: none -webkit-focus-ring-color;
 }
 
 
@@ -192,8 +191,6 @@ h2 {
     position: fixed;
     background-image: url(../images/contact/pradnyal-gandhi-1MqDCpA-2hU-unsplash.jpg);
     background-size: contain;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-repeat: no-repeat;
     background-position: right center;
     background-color: black;
@@ -276,6 +273,10 @@ h2 {
     width: 65%;
     font-family: "Open Sans", sans-serif;
     font-size: 20px;
+}
+
+.contact-form button:focus {
+    outline: none;
 }
 
 .form-control {
