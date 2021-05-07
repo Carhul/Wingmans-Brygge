@@ -7,7 +7,7 @@ _True passion for exclusive and well made beer._
 ## Contents ## 
 _To open links in external page, use CTRL+click (Windows/Linux) or CMD+click MacOS)._
 * UX    
-    * [Project goals](Project-Goals)  
+    * [Project goals](#project-goals)  
     * User goals  
     * User stories  
     * Site owner goals  
