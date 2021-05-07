@@ -202,6 +202,15 @@ h2 {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .jumbotron {
+        text-align: center;
+        background-color: #ffebb9;
+        margin: 160px 30px;
+    }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
     .container-form {
         opacity: 0.9;
         padding-top: 170px;
@@ -241,6 +250,7 @@ h2 {
     }
 }
 
+/*
 .contact-info h2 {
     margin-bottom: 10%;
 }
@@ -299,6 +309,7 @@ input[type=email] {
     font-size: 12px;
 }
 
+------------------------------------ */
 /* -------------------------------------Footer - Index (Home) */
 
 .footer-index {
