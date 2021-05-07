@@ -1,4 +1,4 @@
-# Wingmans Brygge #
+# Wingman`s Brygge #
 _True passion for exclusive and well made beer._
 
 ![Wingmans](assets/images/multidevice_mockup.png)  
@@ -79,6 +79,7 @@ Gallery page - representative images of Wingman's in action, process and equipme
   
   Contact page - contains a contact form with an exclusive wallpaper to break a little from the other pages and to create an evocative user.
 * Fonts  
+  [Google Fonts](https://fonts.google.com/specimen/Open+Sans): Open Sans, sans-serif.
 
 * Icons  
 [Fontawsome](https://fontawesome.com/icons?d=gallery&p=2) provided the icons for [Facebook](https://fontawesome.com/icons/facebook-square?style=brands), [Instagram](https://fontawesome.com/icons/instagram-square?style=brands) and [Snapchat](https://fontawesome.com/icons/snapchat-square?style=brands).
