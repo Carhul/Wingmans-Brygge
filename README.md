@@ -20,13 +20,13 @@ _To open links in external page, use CTRL+click (Windows/Linux) or CMD+click Mac
 * [Technologies](#technologies)  
   * Languages  
   * Tools / Libraries 
-* [Features](features)  
+* [Features](#features)  
     * Features that have been developed  
     * Features that will be implemented in the future  
-* Testing  
-* Bugs  
-* Deployment  
-* Credit  
+* [Testing](#testing)  
+* [Bugs](#bugs)  
+* [Deployment](#deployment)  
+* [Credit](#credit)  
 ---
 ## UX (User Experience) ##  
   
