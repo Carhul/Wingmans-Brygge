@@ -85,7 +85,9 @@ Divided into two categories, the website will focus on the following target audi
 * Help others get started with home brew
 * Establish contact with others who share their passion  
 
-### User Requirements And Expectations ###   
+### Scope ###
+
+#### User Requirements And Expectations ####  
 
 * Content that is visually appealing and well structured
 * Easy to navigate the website using the navbar  
@@ -93,6 +95,21 @@ Divided into two categories, the website will focus on the following target audi
 * Operational links to other pages that open in a new tab  
 * Operational contact form for e-mail address input  
 * The website is quick to load  
+
+### Skelton ###  
+  
+Wireframes are made in [Figma](https://www.figma.com/). This was a really nice program to check out different styles and how the final result would look like on different screensizes.  
+
+#### Design for desktop devices: ####  
+![index](wireframes/desktop/index_desktop.jpg)  
+  
+![about](wireframes/desktop/about_desktop.jpg)  
+
+![gallery](wireframes/desktop/gallery_desktop.jpg)  
+
+![contact](wireframes/desktop/contact_desktop.jpg)  
+
+All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2). 
 
 ### Design ### 
 The design of this website has been created based on the logo of Wingmans and the personality of the founders.  
@@ -122,22 +139,7 @@ All the colours were taken from the logo to ensure a harmonious expression.
 
   Color Scheme from [Coolors](https://coolors.co/);  
 
-  ![image](wireframes/colorpallet.png)  
-
-    
-### Wireframes ###  
-Wireframes are made in [Figma](https://www.figma.com/). This was a really nice program to check out different styles and how the final result would look like on different screensizes.  
-
-#### Design for desktop devices: ####  
-![index](wireframes/desktop/index_desktop.jpg)  
-  
-![about](wireframes/desktop/about_desktop.jpg)  
-
-![gallery](wireframes/desktop/gallery_desktop.jpg)  
-
-![contact](wireframes/desktop/contact_desktop.jpg)  
-
-All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2).  
+  ![image](wireframes/colorpallet.png)   
 
 ### Features ###  
 
