@@ -8,16 +8,18 @@ _True passion for exclusive and well made beer._
 _To open links in external page, use CTRL+click (Windows/Linux) or CMD+click MacOS)._
 * UX    
     * [Project goals](#project-goals)  
-    * User goals  
-    * User stories  
-    * Site owner goals  
-    * User requirements and expectations  
-    * Design choices  
-        * Fonts  
-        * Icons  
-        * Colours  
-        * Wireframes
-* Technologies  
+    * [User goals](#user-goals)  
+    * [User stories](#user-stories)  
+    * [Site owner goals](#site-owner-goals)  
+    * [User requirements and expectations](#user-requirements-and-expectations)  
+    * [Design choices](#design-choices)  
+        * [Fonts](#fonts)  
+        * [Icons](#icons)  
+        * [Colours](#colours)  
+        * [Wireframes](#wireframes)
+* [Technologies](#technologies)  
+  * [Languages](#languages)  
+  * [Tools / Libraries](#tools-libraries)  
 * Features  
     * Features that have been developed  
     * Features that will be implemented in the future  
