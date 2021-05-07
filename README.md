@@ -25,7 +25,7 @@ _To open links in external page, use CTRL+click (Windows/Linux) or CMD+click Mac
     * Features that will be implemented in the future  
 * [Testing](#testing)  
 * [Bugs](#bugs)  
-* [Deployment](#deployment)  
+* [Deployment](#deployment)    
 * [Credit](#credit)  
 ---
 ## UX (User Experience) ##  
@@ -142,6 +142,12 @@ The testing process for me has been through the intire building of this project,
 ### Bugs ###  
 
 ### Deployment ###  
+  Deploying on GitHub pages  
+  
+  To deploy on GitHub pages from it`s GitHub respository, the following steps were taken:  
+    
+  1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page")  
+  2. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository")
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
