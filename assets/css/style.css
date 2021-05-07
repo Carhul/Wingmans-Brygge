@@ -11,7 +11,7 @@
 }
 
 .bg-color-main {
-    background-color: #ffebb9;
+    background-color: #FFEBB9;
 }
 
 .font-size-color {
@@ -206,7 +206,8 @@ h2 {
 
 .form-position {
     margin-top: 11%;
-    margin-right: 60%;
+    margin-right: 54%;
+    margin-left: 30px;
 }
 
 
@@ -233,8 +234,8 @@ textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #cf8b48;
+    color: #383737;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
@@ -243,14 +244,15 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #C7782B;
 }
 
 /* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #FFEBB9;
     padding: 20px;
+    opacity: 0.9;
 }
 
 /*
