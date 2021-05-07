@@ -34,7 +34,7 @@ The main requirements in this project is to make a responsive and static website
     
     Note; the review section is fictional as this is a new approach for The Wingmans.  
     It needed to be included as part of the assessment criteria. 
-    But is highly relevant as it wil be updated with real reviews in the future.
+    But is highly relevant as it will be updated with real reviews in the future.
 
 ## UX ##
 
