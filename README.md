@@ -165,7 +165,6 @@ Features that will be implemented in the future:
 Languages  
 * [HTML](https://no.wikipedia.org/wiki/HTML)  
 * [CSS](https://en.wikipedia.org/wiki/CSS)  
-* 
 
 Tools / Libraries  
 * [Git](https://git-scm.com/)  
@@ -199,7 +198,22 @@ The testing process for me has been through the intire building of this project,
   4. Scroll down the Settings page to the "GitHub Pages" section and push the blue "Check it out here!" text.  
   5. Under "Source" click the drop-down menu labelled "None" and select "Master".  
   6. Select "save", and the page will automatically refresh meaning that the website is now deployed.  
-  7. Copy the deployed link to your live website!
+  7. Copy the deployed link to your live website!  
+
+  ### Forking the Repository ###  
+
+  By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:  
+    
+  1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").  
+  2. Locate the [GitHub Respository](https://github.com/Carhul/Wingmans-Brygge "Link to GitHub repository").  
+  3. At the top of the repository, on the right side of the page, select "Fork".  
+  4. You should now have a copy of the original repository in your GitHub account.  
+
+  ### Creating a Clone ###  
+
+  How to run this project locally:  
+
+   1. 
 
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
