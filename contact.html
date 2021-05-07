@@ -64,21 +64,24 @@
 
     <!----------------Main - Contactform---------------->
 
-    <div class="jumbotron">
+    <div class="justify-content-center form-position">
         <div class="container">
-            <div class="row">
-                <div class="col-12 rounded">
-                    <p>Never brewed before but want to give it a try?<br>
-                        We will share the steps for success</p>
-                </div>
-                <div class="col-12 rounded">
-                    <input type="email" id="email" placeholder="Enter email address" name="email"><br>
-                    <button type="submit" class="btn btn-contact">Start brewing with Wingman`s!</button>
-                </div>
-            </div>
+            <form action="action_page.php">
+
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                <label for="subject">Subject</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+                <input type="submit" value="Submit">
+
+            </form>
         </div>
     </div>
-
     <!----------------------Footer----------------------->
 
     <footer class="footer mt-auto py-3">
