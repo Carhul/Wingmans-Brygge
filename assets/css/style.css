@@ -196,6 +196,12 @@ h2 {
     width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+    .background {
+        background-position: right bottom;
+    }
+}
+
 /* -----------------------Main - Contact - Contact form */
 
 /* Extra small devices (phones, 600px and down) */
@@ -264,6 +270,7 @@ h2 {
 
 .footer-row {
     width: 100%;
+    padding-left: 10px;
 }
 
 .social-links li a i {
