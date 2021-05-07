@@ -12,29 +12,23 @@ _True passion for exclusive and well made beer._
     * [User stories](#user-stories)
     * [Development planes](#development-planes)      
     * [Design](#design)  
-        * Fonts  
-        * Icons  
-        * Colours  
-        * [Wireframes](#wireframes)
-* [Technologies](#technologies)  
-  * Languages  
-  * Tools / Libraries 
-* [Features](#features)  
-    * Features that have been developed  
-    * Features that will be implemented in the future  
+    * [Features](#features)  
+      * Existing features  
+      * Features that will be implemented in the future
+* [Technologies](#technologies)    
 * [Testing](#testing)  
 * [Bugs](#bugs)  
 * [Deployment](#deployment)    
 * [Credit](#credit)  
 ---
-## UX (User Experience) ##  
+## UX ##  
   
 ### Project Goals ###  
 This project`s goal is to help the site owners - the founders of Wingmans, to achieve their goal of inspiring others with their passion for home brew, and maybe along the way make some new acquaintances.  
   
     
     Note; the review section is fictional as this is a new approach for The Wingmans.  
-    It needed to be included as part of the assessment criteria.
+    It needed to be included as part of the assessment criteria. But is highly relevant as it wil be updated with real reviews in the future.
 
 ### User Stories ###  
 * As a user I want to see a nice and inspiring website who makes me want to learn more about home brew  
@@ -137,20 +131,6 @@ Wireframes are made in [Figma](https://www.figma.com/). This was a really nice p
 
 All designs for desktop, tablet and phone in Figma [here](https://www.figma.com/file/y1eSVjoA9x3tgVGvwsrd3O/Wingmans?node-id=19%3A2).  
 
-### Technologies ###  
-Languages  
-* [HTML](https://no.wikipedia.org/wiki/HTML)  
-* [CSS](https://en.wikipedia.org/wiki/CSS)  
-* 
-
-Tools / Libraries  
-* [Git](https://git-scm.com/)  
-* [Bootstrap](https://getbootstrap.com/)  
-* [Fontawsome](https://fontawesome.com/)  
-* [Google Fonts](https://fonts.google.com/)  
-* [Unsplash](https://unsplash.com/)  
-* [Coolors](https://coolors.co/)  
-
 ### Features ###  
 
 Features that have been implemented:  
@@ -164,6 +144,20 @@ Features that will be implemented in the future:
 * Logbook  
 * Forum  
 * Background music / button on-off
+
+### Technologies ###  
+Languages  
+* [HTML](https://no.wikipedia.org/wiki/HTML)  
+* [CSS](https://en.wikipedia.org/wiki/CSS)  
+* 
+
+Tools / Libraries  
+* [Git](https://git-scm.com/)  
+* [Bootstrap](https://getbootstrap.com/)  
+* [Fontawsome](https://fontawesome.com/)  
+* [Google Fonts](https://fonts.google.com/)  
+* [Unsplash](https://unsplash.com/)  
+* [Coolors](https://coolors.co/)  
 
 ### Testing ###  
 The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on. See [Testing-file](TESTING.md) for testing before deployment.
