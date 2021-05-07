@@ -239,8 +239,9 @@ The testing process for me has been through the intire building of this project,
 ### Credit ###  
 Content and text used in this website is written by me in collaboration with the founders of Wingmans; Frode Olsen-Ryum and Lars-Petter Reitan.  
 #### Setup and text in README.md ####  
-* [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/README.md) and [Miranda](https://github.com/mkthewlis/Milestone-Project-1) for clear, neat and inspiring readme files
-* [Pumpkin](https://www.pumpkinwebdesign.com/web-design-manchester/top-user-expectations-for-web-design-in-2021/) for inspiration on _user requirements and expectations_ section  
+* [byllsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine/blob/master/README.md) and [Miranda](https://github.com/mkthewlis/Milestone-Project-1) for clear, neat and inspiring readme files.
+* [Pumpkin](https://www.pumpkinwebdesign.com/web-design-manchester/top-user-expectations-for-web-design-in-2021/) for inspiration on _user requirements and expectations_ section.  
+* [rebeccatraceyt](https://github.com/rebeccatraceyt) for an exceptional readme file, and and especially the deployment section - who is a copy/paste on Forking the respository and Creating a Clone.   
   
 #### Images ####  
 About page - images is provided by [Unsplash](https://unsplash.com/). At the top from [Fred](https://unsplash.com/photos/0yqa0rMCsYk), and reviews from [Ivana](https://unsplash.com/photos/_7LbC5J-jw4), [Atikh](https://unsplash.com/photos/_KaMTEmJnxY) and [Amir](https://unsplash.com/photos/BFxyTaw3PsM).  
