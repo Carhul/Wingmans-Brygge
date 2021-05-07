@@ -13,14 +13,14 @@ _To open links in external page, use CTRL+click (Windows/Linux) or CMD+click Mac
     * [Site owner goals](#site-owner-goals)  
     * [User requirements and expectations](#user-requirements-and-expectations)  
     * [Design choices](#design-choices)  
-        * [Fonts](#fonts)  
-        * [Icons](#icons)  
-        * [Colours](#colours)  
+        * Fonts  
+        * Icons  
+        * Colours  
         * [Wireframes](#wireframes)
 * [Technologies](#technologies)  
-  * [Languages](#languages)  
-  * [Tools / Libraries](#tools-libraries)  
-* Features  
+  * Languages  
+  * Tools / Libraries 
+* [Features](features)  
     * Features that have been developed  
     * Features that will be implemented in the future  
 * Testing  
