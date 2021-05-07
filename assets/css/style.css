@@ -58,7 +58,6 @@ button:focus {
         padding-top: 60px;
         position: relative;
         width: 100%;
-        padding-bottom: 275px;
     }
 }
 
@@ -188,7 +187,6 @@ h2 {
 /* -------- Main - Contact - Background image -------- */
 
 .background {
-    position: fixed;
     background-image: url(../images/contact/pradnyal-gandhi-1MqDCpA-2hU-unsplash.jpg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -262,8 +260,10 @@ h2 {
     font-weight: 200;
     color: #383737;
     background-color: #C7782B;
-    bottom: 0;
-    position: fixed;
+}
+
+.footer-row {
+    width: 100%;
 }
 
 /* ------------------Footer - About Us---------------- */
