@@ -203,50 +203,55 @@ h2 {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .jumbotron {
+        opacity: 0.9;
         text-align: center;
         background-color: #ffebb9;
-        margin: 160px 30px;
-    }
-}
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .container-form {
-        opacity: 0.9;
-        padding-top: 170px;
+        margin: 200px 30px;
+        padding: 1rem 1rem;
     }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-    .container-form {
+    .jumbotron {
         opacity: 0.9;
-        padding-top: 250px;
+        text-align: center;
+        background-color: #ffebb9;
+        margin: 250px 30px;
+        padding: 1rem 1rem;
     }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    .container-form {
+    .jumbotron {
         opacity: 0.9;
-        padding-top: 380px;
-        padding-left: 30px;
+        text-align: center;
+        background-color: #ffebb9;
+        margin: 250px 30px;
+        padding: 1rem 1rem;
     }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    .container-form {
+    .jumbotron {
         opacity: 0.9;
-        padding-top: 562px;
+        text-align: center;
+        background-color: #ffebb9;
+        margin: 310px 30px;
+        padding: 1rem 1rem;
     }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-    .container-form {
+    .jumbotron {
         opacity: 0.9;
-        padding-top: 300px;
+        text-align: center;
+        background-color: #ffebb9;
+        margin: 330px 30px;
+        padding: 1rem 1rem;
     }
 }
 
