@@ -191,8 +191,14 @@ For CSS I used [The W3C CSS Validation Service](https://jigsaw.w3.org/css-valida
 
 Testing before deployment:
 
-Index validate   
-![Index validate](assets/images/testing/index_validate_ok.png)
+Index / Home validate - ok   
+![Index validate](assets/images/testing/index_validate_ok.png)  
+
+About US validate - error 4 times, before I understod that it was a space in the name of an image.    
+![About validate](assets/images/testing/about_validate_error.png)  
+
+About US validate - ok, renamed the image  
+![About validate 5](assets/images/testing/about_validate_ok.png)
 
 ### Bugs ###  
 
