@@ -16,6 +16,7 @@
 
 .font-size-color {
     font-size: 17px;
+    color: black;
 }
 
 /* ----------------------------------------Header - All pages */
@@ -23,7 +24,7 @@
 header {
     font-size: 24px;
     font-weight: 200;
-    color: #302d2d;
+    color: #000000;
 }
 
 .fixed-top {
@@ -40,7 +41,7 @@ header {
 }
 
 .fa-beer {
-    color: #383737;
+    color: #000000;
 }
 
 /* CREDIT - How to remove the blue border around the navbar toggler icon: https: //stackoverflow.com/questions/50668594/remove-border-color-for-navbar-toggler-hamburger-icon-bootstrap-4 */
@@ -165,7 +166,7 @@ button:focus {
 h2 {
     font-family: "Open Sans", sans-serif;
     font-weight: 200;
-    color: #302d2d;
+    color: #000000;
 }
 
 .media img {
@@ -175,14 +176,13 @@ h2 {
 
 .media-body {
     font-family: "Open Sans", sans-serif;
-    color: #302d2d;
+    color: #000000;
 }
 
 /* -------------------Main - Gallery---------------- */
 
 .main-gallery {
     padding-top: 62px;
-    color: black;
 }
 
 /* -------- Main - Contact - Background image -------- */
@@ -214,21 +214,13 @@ input[type=text],
 select,
 textarea {
     width: 100%;
-    /* Full width */
     padding: 12px;
-    /* Some padding */
     border: 1px solid #383737;
-    /* Gray border */
     border-radius: 4px;
-    /* Rounded borders */
     box-sizing: border-box;
-    /* Make sure that padding and width stays in place */
     margin-top: 6px;
-    /* Add a top margin */
     margin-bottom: 16px;
-    /* Bottom margin */
     resize: both;
-    /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
 input[type=submit] {
@@ -289,7 +281,7 @@ input[type=submit]:hover {
 footer {
     font-size: 20px;
     font-weight: 200;
-    color: #383737;
+    color: #000000;
     background-color: #C7782B;
 }
 
@@ -299,14 +291,14 @@ footer {
 }
 
 .social-links li a i {
-    color: #383737;
+    color: #000000;
     font-size: 20px;
     height: 15px;
     padding-left: 5px;
 }
 
 a {
-    color: #383737;
+    color: #000000;
 }
 
 .social-links li a i,
