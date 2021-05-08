@@ -198,7 +198,13 @@ About US validate - error 4 times, before I understod that it was a space in the
 ![About validate](assets/images/testing/about_validate_error.png)  
 
 About US validate - ok, renamed the image  
-![About validate 5](assets/images/testing/about_validate_ok.png)
+![About validate 5](assets/images/testing/about_validate_ok.png)  
+
+Gallery validate - ok  
+![Gallery validate](assets/images/testing/gallery_validate_ok.png)  
+
+Contact validate - ok  
+![Contact validate](assets/images/testing/contact_validate_ok.png)
 
 ### Bugs ###  
 
