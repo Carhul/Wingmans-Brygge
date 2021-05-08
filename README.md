@@ -206,8 +206,8 @@ Gallery validate - ok
 Contact validate - ok  
 ![Contact validate](assets/images/testing/contact_validate_ok.png)  
 
-CSS validate - ok.  
-![CSS validate]()
+CSS validate - ok  
+![CSS validate](assets/images/testing/css_validate_ok.png)
 
 Here I got two errors the first time, but forgot to take a printscreen. The first one was that I got an extra div I needed to delete, and the second was "spacing not allowed", removed the extra space.  
 
