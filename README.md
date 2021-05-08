@@ -160,7 +160,8 @@ Features that will be implemented in the future:
 * Video blog / link to youtube  
 * Logbook  
 * Forum  
-* Background music / button on-off
+* Background music / button on-off  
+* Taplist to be implemented on the site, and not open in a new tab
 
 ### Technologies ###  
 Languages  
@@ -214,6 +215,8 @@ Here I got two errors the first time, but forgot to take a printscreen. The firs
 I have tested the live site on different screens: iphone 6, 8, x and x plus - as well as tablet, desktop l and xl. I can see that it has some small alignment issues to be 100% perfekt, but I am happy with how it looks - for now. 
 
 Testing on both Safari and Google Crome, and working fine. I think maybe it loads a little to slow on gallery page.  
+
+Peer-code review - The text color is to light. I agree on that, but I had an issue/bug on that and couldent make it darker, description under "Bugs". I was also told that Taplist should not open in a new tab (bad UX), but be implemented to the site. I will implement taplist to be on the site in the future.
 
 User testing feedback - "Think it would be nice if the name, The Wingmans, on the top left was centered". Only one of the people who was asked to review the site thought that, so I havent made any changes to that, as I personally thinks its nicer on the left.
 
