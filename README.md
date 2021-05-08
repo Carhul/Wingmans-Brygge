@@ -204,7 +204,16 @@ Gallery validate - ok
 ![Gallery validate](assets/images/testing/gallery_validate_ok.png)  
 
 Contact validate - ok  
-![Contact validate](assets/images/testing/contact_validate_ok.png)
+![Contact validate](assets/images/testing/contact_validate_ok.png)  
+
+CSS validate - ok.  
+![CSS validate]()
+
+Here I got two errors the first time, but forgot to take a printscreen. The first one was that I got an extra div I needed to delete, and the second was "spacing not allowed", removed the extra space.  
+
+I have tested the live site on different screens: iphone 6, 8, x and x plus - as well as tablet, desktop l and xl. I can see that it has some small alignment issues to be 100% perfekt, but I am happy with how it looks - for now. 
+
+Testing on both Safari and Google Crome, and working fine. I think maybe it loads a little to slow on gallery page.
 
 ### Bugs ###  
 
