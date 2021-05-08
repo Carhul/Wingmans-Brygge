@@ -187,6 +187,9 @@ The testing process for me has been through the intire building of this project,
 
 ### Bugs ###  
 
+It has been a large number of issues and bugs during the development of this website, the noteworthy below:  
+Header - 
+
 ### Deployment ###  
   Deploying on GitHub pages  
   
