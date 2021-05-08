@@ -184,7 +184,14 @@ Coolors was used to make the collorpallet.
 Multi device mockup was used in order to see the responsive design throughout the process and to generate mockup image to readme file.  
 
 ### Testing ###  
-The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on. See [Testing-file](TESTING.md) for testing before deployment.
+The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on.  
+
+For HTML Validate I used [The W3C Markup Validation Service](https://validator.w3.org/).  
+For CSS I used [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
+
+Testing before deployment:
+
+Index validate
 
 ### Bugs ###  
 
