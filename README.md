@@ -20,6 +20,7 @@ _True passion for exclusive and well made beer._
 * [Bugs](#bugs)  
 * [Deployment](#deployment)    
 * [Credit](#credit)  
+* [Acknowledgements](#acknowledgements)  
 ---
    
 ### Introduction & Project Goals ###  
@@ -251,4 +252,9 @@ About page - images is provided by [Unsplash](https://unsplash.com/). At the top
   
   Contact page - background image by [Pradnyal](https://unsplash.com/photos/1MqDCpA-2hU).  
     
-I want to give a huge thank you to XX FINISH THIS SECTION
+### Acknowledgements ###
+
+* My mentor, Seun, for her indispensable guidance, motivation and magic trics along the way.  
+* The Wingmans, for trusting me in making this website for them.  
+* My husband and kids for their patience in this.  
+* Friends and colleagues for their feedback along the way.
