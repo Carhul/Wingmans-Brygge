@@ -184,7 +184,7 @@ Coolors was used to make the collorpallet.
 Multi device mockup was used in order to see the responsive design throughout the process and to generate mockup image to readme file.  
 
 ### Testing ###  
-The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on.  
+The testing process for me has been through the intire building of this project, as I wanted everything to be perfect before moving on. I have also worked closely with the founders with each step, to make sure that the site meets all the user stories criteria.
 
 For HTML Validate I used [The W3C Markup Validation Service](https://validator.w3.org/).  
 For CSS I used [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
@@ -213,12 +213,21 @@ Here I got two errors the first time, but forgot to take a printscreen. The firs
 
 I have tested the live site on different screens: iphone 6, 8, x and x plus - as well as tablet, desktop l and xl. I can see that it has some small alignment issues to be 100% perfekt, but I am happy with how it looks - for now. 
 
-Testing on both Safari and Google Crome, and working fine. I think maybe it loads a little to slow on gallery page.
+Testing on both Safari and Google Crome, and working fine. I think maybe it loads a little to slow on gallery page.  
+
+User testing feedback - "Think it would be nice if the name, The Wingmans, on the top left was centered". Only one of the people who was asked to review the site thought that, so I havent made any changes to that, as I personally thinks its nicer on the left.
 
 ### Bugs ###  
 
 It has been a large number of issues and bugs during the development of this website, the noteworthy below:  
-Footer - wouldent stay at the bottom, it was a tiny gap I needed my mentor to help me with. I was missing the class="h-100" in the html, and that combined with the class="footer mt-auto" it was pushed the final bit. 
+
+Footer - wouldent stay at the bottom, it was a tiny gap I needed my mentor to help me with. I was missing the class="h-100" in the html, and that combined with the class="footer mt-auto" it was pushed the final bit.  
+
+Contact form - this I needed to remake 3 times. Learned a lot in the proccess but would have made it a fourth time if I had the time before submit. It was not acting as I wanted it to, and make it perfectly align was hard, but I think it turned out ok in the end. I used bootstrap form, jumbotrone, but landed on container. 
+
+Toggler-icon - when trying to make the navbar darker, I removed the navbar-light. Then the toggler-icon disappeared, and the navbar-dark dit not work either as it made the text white. After several attempts and totaly messing up the css code I ended up adding it back on. I want to make it darker for better UX in the future.
+
+Bootstrap script links - After peer code review I was told that the Bootstrap script links need to be at the bottom of the page. But when I do so, Bootstrap overrides the custom css, and the links turn blue. In the future I will figure out how to solve that and make it right. 
 
 ### Deployment ###  
   Deploying on GitHub pages  
