@@ -191,7 +191,8 @@ For CSS I used [The W3C CSS Validation Service](https://jigsaw.w3.org/css-valida
 
 Testing before deployment:
 
-Index validate
+Index validate   
+![Index validate](assets/images/testing/index_validate_ok.png)
 
 ### Bugs ###  
 
