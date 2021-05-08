@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
-/* --- Targets all HTML elements unless otherwise is specifically stated */
+/* --- Targets HTML elements on different pages */
 
 .text-aligment {
     text-align: center;
@@ -12,11 +12,6 @@
 
 .bg-color-main {
     background-color: #FFEBB9;
-}
-
-.font-size-color {
-    font-size: 17px;
-    color: black;
 }
 
 /* ----------------------------------------Header - All pages */
@@ -36,12 +31,17 @@ header {
     font-size: 23px;
 }
 
+.navbar-toggler {
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
 .nav-item {
     padding-left: 10px;
 }
 
 .fa-beer {
-    color: #000000;
+    color: black;
 }
 
 /* CREDIT - How to remove the blue border around the navbar toggler icon: https: //stackoverflow.com/questions/50668594/remove-border-color-for-navbar-toggler-hamburger-icon-bootstrap-4 */
@@ -53,7 +53,6 @@ button:focus {
 
 /* ----------------------------------------Main - Home (index) */
 
-/* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .container-index {
         padding-top: 60px;
@@ -62,7 +61,6 @@ button:focus {
     }
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     .container-index {
         padding-top: 50px;
@@ -71,7 +69,6 @@ button:focus {
     }
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .container-index {
         padding-top: 35px;
@@ -80,7 +77,6 @@ button:focus {
     }
 }
 
-/* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .container-index {
         padding-top: 50px;
@@ -89,7 +85,6 @@ button:focus {
     }
 }
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     .container-index {
         padding-top: 50px;
@@ -102,7 +97,7 @@ button:focus {
     width: inherit;
 }
 
-/* ----------------------------------------Main - About Us */
+/* --------------------Main - About Us-------------------- */
 
 /* --- CREDIT - for making the hero image fit perfect: Ruairidh MacArthur. On GitHub, roomacarthur and his milestone one; seastainability */
 
@@ -121,7 +116,7 @@ button:focus {
     object-fit: cover;
 }
 
-/* --- CREDIT end ---*/
+/* --------- CREDIT end ---------*/
 
 #founders-img {
     height: 300px;
@@ -146,6 +141,11 @@ button:focus {
     padding-bottom: 8px;
 }
 
+.font-size-color {
+    font-size: 17px;
+    color: black;
+}
+
 #founders-icon {
     padding-right: 15px;
 }
@@ -159,14 +159,13 @@ button:focus {
     background: -webkit-gradient(linear, 0 0, 100% 0, from(#ffebb9), to(#ffebb9), color-stop(50%, #302d2d));
 }
 
-/* --- CREDIT end --- */
+/* ----------- CREDIT end ----------- */
 
 /* ----------------------------------------Main - About Us - Reviews */
 
 h2 {
     font-family: "Open Sans", sans-serif;
-    font-weight: 200;
-    color: #000000;
+    color: black;
 }
 
 .media img {
@@ -176,7 +175,7 @@ h2 {
 
 .media-body {
     font-family: "Open Sans", sans-serif;
-    color: #000000;
+    color: black;
 }
 
 /* -------------------Main - Gallery---------------- */
@@ -203,7 +202,7 @@ h2 {
     }
 }
 
-/* -----------------------Main - Contact - Contact form */
+/* -----------------------Main - Contact form */
 
 .contact-font {
     font-family: "Open Sans", sans-serif;
@@ -225,7 +224,7 @@ textarea {
 
 input[type=submit] {
     background-color: #C7782B;
-    color: #383737;
+    color: #000000;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
@@ -303,5 +302,5 @@ a {
 
 .social-links li a i,
 a:hover {
-    color: #2c2c2b;
+    color: #000000;
 }
