@@ -188,7 +188,7 @@ The testing process for me has been through the intire building of this project,
 ### Bugs ###  
 
 It has been a large number of issues and bugs during the development of this website, the noteworthy below:  
-Header - 
+Footer - wouldent stay at the bottom, it was a tiny gap I needed my mentor to help me with. I was missing the class="h-100" in the html, and that combined with the class="footer mt-auto" it was pushed the final bit. 
 
 ### Deployment ###  
   Deploying on GitHub pages  
